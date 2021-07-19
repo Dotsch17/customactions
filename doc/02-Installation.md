@@ -30,7 +30,7 @@ Clone the repository to your local system and configure it
 
 ```bash
 cd ${MODULE_DIR}
-git clone https://Dominik17@bitbucket.org/Dominik17/customactions.git
+git clone https://github.com/Dotsch17/customactions.git
 chmod 755 customactions
 chown apache:root customactions
 cd customactions/
